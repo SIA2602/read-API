@@ -6,6 +6,18 @@
   .container {
     display: flex;
     flex-wrap: wrap;
+    background-color: gray;
+  }
+
+  .container01 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .pg01{
+    background-color: red;
+    width: 80vw;
+    height: 60vh;
   }
   
   .card {
